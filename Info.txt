@@ -1,2 +1,7 @@
 Raspberry PI: raspie
+
 Bærbar PC: Espen
+
+Webserver:
+Ble sat opp på port 80 ved å kjøre sudo python3 -m http.server 80.
+Kan se filer fra mappen på nettsiden.
