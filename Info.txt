@@ -1,9 +1,9 @@
-Raspberry PI: raspie
-
-Bærbar PC: Espen
+Raspberry PI: raspie 10.200.10.20
+Bærbar PC: Espen 192.168.0.139
 
 Webserver:
-Ble sat opp på port 80 ved å kjøre sudo python3 -m http.server 80.
-Kan se filer fra mappen på nettsiden.
+Ble sat opp på port 80 ved å kjøre sudo python3 -m http.server 80. Port 80 brukes til webservere, defor fungerer det.
+Kan se filer fra mappen på nettsiden. 
 
-Hvis jeg legger til en fil i mappen til PI server, så kan jeg kopiere den filen til min laptop.
+Fikk til å klone Python filen til min raspberry PI.
+
