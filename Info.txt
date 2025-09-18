@@ -7,3 +7,5 @@ Kan se filer fra mappen på nettsiden.
 
 Fikk til å klone Python filen til min raspberry PI.
 
+Hei Espen
+
