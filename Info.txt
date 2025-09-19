@@ -7,4 +7,4 @@ Kan se filer fra mappen på nettsiden.
 
 Fikk til å klone Python filen til min raspberry PI.
 
-
+Jeg har kopiert oppdrag.py til min raspberry pi gjennom scp kommandoen. Etter å ha installert python på raspberry pi maskinen, kunne jeg kjøre python filen.
